@@ -61,23 +61,23 @@ Dataframes used are available on the links below:
 
 The following libraries were used during the project:
 
-### Data
+**Data**
 
 *   PanDas
 *   json
 
-### Utility
+**Utility**
 
 *   Matplotlib
 *   Seaborn
 *   Numpy
 
-### Unsupervised Machine Learning
+**Unsupervised Machine Learning**
 
 *   Sklearn.mixture
 *   mpl_toolkits.mplot3D
 
-### Supervised Machine Learning
+**Supervised Machine Learning**
 
 *   Sklearn (preprocessing, model_selection, Pipeline, svm, multiclass, multioutput, model_selection, metrics)
 
