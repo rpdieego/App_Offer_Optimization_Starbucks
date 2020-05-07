@@ -85,7 +85,8 @@ The following libraries were used during the project:
 
 The best results were achieved using the following machine learning pipeline
 
-```pipeline = Pipeline([
+```
+pipeline = Pipeline([
         ('clf',MultiOutputClassifier(OneVsRestClassifier(LinearSVC(), n_jobs=1)))  
                         ])
 # Define hyperparameters to be optimized in the GridSearchCV
