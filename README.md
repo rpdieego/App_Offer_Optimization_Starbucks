@@ -8,10 +8,6 @@ Udacity - Data Scientist Nanodegree Capstone Project
 
 >As the largest coffeehouse in the world, Starbucks is seen to be the main representation of the United States' second wave of coffee culture.
 
->Since the 2000s, third wave coffee makers have targeted quality-minded coffee drinkers with hand-made coffee based on lighter roasts, while Starbucks nowadays uses automatic espresso machines for efficiency.
-
->The company operates 30,000 locations worldwide in over 77 countries, as of early 2020. Starbucks locations serve hot and cold drinks, whole-bean coffee, microground instant coffee known as VIA, espresso, caffe latte, full- and loose-leaf teas including Teavana tea products, Evolution Fresh juices, Frappuccino beverages, La Boulange pastries, and snacks including items such as chips and crackers; some offerings (including their annual fall launch of the Pumpkin Spice Latte) are seasonal or specific to the locality of the store.
-
 **Starbucks Article on Wikipedia**
 
 One convenient way to pay in store, order ahead for pickpup or even get updated about new drinks or items, is the Starbucks Rewards App. Rewards are built right in, so you’ll collect Stars and start earning free drinks and food with every purchase.
